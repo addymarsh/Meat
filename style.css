@@ -1,0 +1,10 @@
+body{
+	background-color: darkred;
+	color: white;
+}
+
+.one {
+	font-family: tahoma;
+	font-size: 100px;
+	line-height: 0px;
+}
